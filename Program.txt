@@ -1,0 +1,16 @@
+5
+Quadratic Equation +
+(n1*i+S(i^(2)-4*i*i))/(2*i)
+(-1*USER INPUT+√(USER INPUT^(2)-4*USER INPUT*USER INPUT))/(2*USER INPUT)
+5
+Quadratic Equation -
+(n1*i-S(i^(2)-4*i*i))/(2*i)
+(-1*USER INPUT-√(USER INPUT^(2)-4*USER INPUT*USER INPUT))/(2*USER INPUT)
+3
+nPr
+if/((i-i)f)
+USER INPUT!/((USER INPUT-USER INPUT)!)
+4
+nCr
+if/(if(i-i)f)
+USER INPUT!/(USER INPUT!(USER INPUT-USER INPUT)!)
